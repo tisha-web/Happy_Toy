@@ -1,0 +1,33 @@
+.title{
+background-color: blueviolet;
+color: #f7f1f1;;
+text-align: center;
+padding: 20px;
+font-size: 30px;;
+
+}
+
+.home1{
+background-color: yellowgreen;
+padding: 20px;
+}
+.Male{background-color: aquamarine;
+color: rgb(14, 15, 15);
+padding: 20px;
+font-size: 30px;
+}
+.home2{background-color: blanchedalmond;
+padding: 20px;
+}
+.Female{
+background-color: blanchedalmond;
+padding: 20px;
+color: rgb(214, 66, 187);
+font-size: 30px;
+
+}
+.home3{
+background-color: rgb(146, 146, 192);
+padding: 20px;
+
+}
